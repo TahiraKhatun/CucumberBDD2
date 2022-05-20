@@ -5,15 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ccc07e96-6ef0-4df2-991a-353ea6759dab" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/TestRunner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/base/Config.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/features/login/login.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/features/signup/signup.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/pageObject/signIn_page.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/stepDef/Hook.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/App.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/example/AppTest.java" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/signIn.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/TestRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/TestRunner.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
